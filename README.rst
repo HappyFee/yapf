@@ -18,7 +18,7 @@ YAPF
 Introduction
 ============
 
-Most of the current formatters for Python --- e.g., autopep8, and pep8ify ---
+Python 代码格式化工具 Most of the current formatters for Python --- e.g., autopep8, and pep8ify ---
 are made to remove lint errors from code. This has some obvious limitations.
 For instance, code that conforms to the PEP 8 guidelines may not be
 reformatted.  But it doesn't mean that the code looks good.
